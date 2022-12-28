@@ -1,0 +1,20 @@
+.rtl{
+    direction: rtl!important;
+}
+.ltr{
+    direction: ltr!important;
+}
+body{
+    height: 100vh;
+    /* overflow: hidden; */
+    background: rgb(255, 255, 255);
+}
+.calculate-input{
+    background: lightgreen;
+    width: 100%;
+    padding: 2.5rem;
+    font-size: 1.8rem;
+}
+.num-container button{
+    font-size: 1.8rem;
+}
